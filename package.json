@@ -1,0 +1,22 @@
+{
+  "name": "whatsappauto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:whatsapp": "playwright test tests/whatsapp-automation.spec.js",
+    "test:whatsapp:headed": "playwright test tests/whatsapp-automation.spec.js --headed",
+    "test:whatsapp:debug": "playwright test tests/whatsapp-automation.spec.js --debug",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "show:report": "playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2"
+  }
+}
