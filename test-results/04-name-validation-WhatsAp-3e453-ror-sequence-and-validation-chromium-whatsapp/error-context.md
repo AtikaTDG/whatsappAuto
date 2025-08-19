@@ -1,0 +1,304 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - button "Chats" [pressed]: "1"
+  - button "Updates in Status"
+  - button "Channels"
+  - button "Communities"
+  - button "Settings"
+  - button "Profile":
+    - img
+- banner:
+  - banner:
+    - heading "WhatsApp" [level=1]:
+      - img "wa-wordmark-refreshed"
+    - button "New chat"
+    - button "Menu"
+- button "search-refreshed-thin":
+  - img "search-refreshed-thin"
+- textbox "Search input textbox":
+  - paragraph
+- tablist "chat-list-filters":
+  - tab "All" [selected]
+  - tab "Unread"
+  - tab "Favorites"
+  - tab "Groups"
+- button
+- button "Turn on notifications"
+- button "Close"
+- button "Get notified of new messages on your computer. Turn on desktop notifications":
+  - text: Get notified of new messages on your computer.
+  - button "Turn on desktop notifications"
+- button "Archived":
+  - group: Archived
+- grid "Chat list":
+  - listitem:
+    - 'button "Reminder keje Monday You : Join In Date: 18th Aug 2025 Name: Mim Melia Melati Department: KAM Position: System Analyst Phone Number: 0149589202 Personal Email: mimmeliamelati@gmail.com Pinned chat"':
+      - gridcell "Reminder keje Monday"
+      - text: "You : Join In Date: 18th Aug 2025 Name: Mim Melia Melati Department: KAM Position: System Analyst Phone Number: 0149589202 Personal Email: mimmeliamelati@gmail.com"
+      - gridcell "Pinned chat"
+  - listitem:
+    - 'button "DEATH NOTE (DIE) Yesterday You : Click Send to Redeem RM10 Touch ‘n Go eWallet Reload PIN now (Special Code: HCP697) Pinned chat"':
+      - img
+      - gridcell "DEATH NOTE (DIE) Yesterday"
+      - text: "You : Click Send to Redeem RM10 Touch ‘n Go eWallet Reload PIN now (Special Code: HCP697)"
+      - gridcell "Pinned chat"
+  - listitem:
+    - 'button "The D Group (TDG) 11:19 AM Please submit your receipt as a proof of purchase. The receipt must contain the following information: a. Store Name b. Receipt Date c. Product Name d. Product amount e. Total receipt amount f. Receipt number ✨ A clear and readable receipt image is very helpful for the validation process ✨ Selected Open the chat context menu"':
+      - img
+      - gridcell "The D Group (TDG) 11:19 AM"
+      - text: "Please submit your receipt as a proof of purchase. The receipt must contain the following information: a. Store Name b. Receipt Date c. Product Name d. Product amount e. Total receipt amount f. Receipt number"
+      - img "✨"
+      - text: A clear and readable receipt image is very helpful for the validation process
+      - img "✨"
+      - gridcell "Selected Open the chat context menu"
+  - listitem:
+    - 'button "TDG Strategist x Tech Team x QA 11:14 AM Jaye. : Hi @Naim , seeking for your assistance to assist this as member is complaining via Careline, registered via promoter QR but dint get RM5 rewards https://freedcamp.com/view/3530096/tasks/66167375 1 unread message"':
+      - gridcell "TDG Strategist x Tech Team x QA 11:14 AM"
+      - text: "Jaye. : Hi @Naim , seeking for your assistance to assist this as member is complaining via Careline, registered via promoter QR but dint get RM5 rewards https://freedcamp.com/view/3530096/tasks/66167375"
+      - gridcell "1 unread message": "1"
+  - listitem:
+    - button "+60 12-439 6912 9:59 AM brian can come now":
+      - img
+      - gridcell "+60 12-439 6912 9:59 AM"
+      - text: brian can come now
+      - gridcell
+  - listitem:
+    - 'button "Drive Seniors Team 9:56 AM ~Naim~ : i already ask sulaiman to test back and get back to you tadi morning"':
+      - gridcell "Drive Seniors Team 9:56 AM"
+      - text: "~Naim~ : i already ask sulaiman to test back and get back to you tadi morning"
+      - gridcell
+  - listitem:
+    - button "Ccc 9:49 AM you delete all right":
+      - img
+      - gridcell "Ccc 9:49 AM"
+      - text: you delete all right
+      - gridcell
+  - listitem:
+    - button "Imran BlueScope 9:41 AM okei":
+      - img
+      - gridcell "Imran BlueScope 9:41 AM"
+      - text: okei
+      - gridcell
+  - listitem:
+    - 'button "[Work] Code Monkeys 9:24 AM Ccc : https://enfashop-sg-dev.myshopify.com/pages/fairprice-buy-6-free-1"':
+      - img
+      - gridcell "[Work] Code Monkeys 9:24 AM"
+      - text: "Ccc : https://enfashop-sg-dev.myshopify.com/pages/fairprice-buy-6-free-1"
+      - gridcell
+  - listitem:
+    - 'button "TDG - Dugro Malaysia 8:27 AM Hi Atyqxxxx! Sila hantarkan gambar resit anda yang jelas dan menunjukkan: ✅ Nama kedai ✅ Tarikh pembelian ✅ Jumlah perbelanjaan ✅ Produk Dugro yang dibeli 📸 Pastikan keseluruhan resit kelihatan dan teks dapat dibaca dengan jelas untuk mengelakkan sebarang kelewatan. 📸 ✨"':
+      - img
+      - gridcell "TDG - Dugro Malaysia 8:27 AM"
+      - text: "Hi Atyqxxxx! Sila hantarkan gambar resit anda yang jelas dan menunjukkan:"
+      - img "✅"
+      - text: Nama kedai
+      - img "✅"
+      - text: Tarikh pembelian
+      - img "✅"
+      - text: Jumlah perbelanjaan
+      - img "✅"
+      - text: Produk Dugro yang dibeli
+      - img "📸"
+      - text: Pastikan keseluruhan resit kelihatan dan teks dapat dibaca dengan jelas untuk mengelakkan sebarang kelewatan.
+      - img "📸"
+      - img "✨"
+      - gridcell
+  - listitem:
+    - button "+60 10-278 6345 8:04 AM Okei":
+      - img
+      - gridcell "+60 10-278 6345 8:04 AM"
+      - text: Okei
+      - gridcell
+  - listitem:
+    - button "Haleon MY-SG 8:02 AM Hey test atika! Your Haleon Rewards are full of gifts and surprises! Submit your first receipt today and get RM5 eVoucher today!":
+      - img
+      - gridcell "Haleon MY-SG 8:02 AM"
+      - text: Hey test atika! Your Haleon Rewards are full of gifts and surprises! Submit your first receipt today and get RM5 eVoucher today!
+      - gridcell
+  - listitem:
+    - 'button "Abbott Care Pack Yesterday Dear valued customer, Thank you for joining the Abbott Care Pack campaign! We truly appreciate your support. 🌟 To enjoy even more perks, register now in the My Abbott Cares program and start scanning your Abbott products to earn Carepoints in 3 simple steps: Scan QR codes on Abbott products. 📷 Collect Carepoints effortlessly. 🎯 Redeem exciting rewards! 🎁 Sign up today and unlock exclusive benefits! 🎉 Log in to scan your product and earn CarePoints now! _*Terms & Conditions Apply_ _*Limited to participating products only_"':
+      - img
+      - gridcell "Abbott Care Pack Yesterday"
+      - text: Dear valued customer, Thank you for joining the Abbott Care Pack campaign! We truly appreciate your support.
+      - img "🌟"
+      - text: "To enjoy even more perks, register now in the My Abbott Cares program and start scanning your Abbott products to earn Carepoints in 3 simple steps: Scan QR codes on Abbott products."
+      - img "📷"
+      - text: Collect Carepoints effortlessly.
+      - img "🎯"
+      - text: Redeem exciting rewards!
+      - img "🎁"
+      - text: Sign up today and unlock exclusive benefits!
+      - img "🎉"
+      - text: Log in to scan your product and earn CarePoints now! _*Terms & Conditions Apply_ _*Limited to participating products only_
+      - gridcell
+  - listitem:
+    - 'button "Software Engineering - TDG Tuesday +60 10-278 6345 : This is their operating hours ya"':
+      - gridcell "Software Engineering - TDG Tuesday"
+      - text: "+60 10-278 6345 : This is their operating hours ya"
+      - gridcell
+  - listitem:
+    - 'button "The D Group (TDG) Tuesday Imran BlueScope : 🎉 Hey TDG Buddies! We’re going to the *Driving Range* this week! ⛳ Time to unleash your inner Tiger Woods!. Venue: *Kota Damansara Driving Range* Date: *Friday* Time: *8-9pm* _Please confirm if you’re joining us by 13 August, 6 PM_"':
+      - img
+      - gridcell "The D Group (TDG) Tuesday"
+      - text: "Imran BlueScope :"
+      - img "🎉"
+      - text: Hey TDG Buddies! We’re going to the *Driving Range* this week!
+      - img "⛳"
+      - text: "Time to unleash your inner Tiger Woods!. Venue: *Kota Damansara Driving Range* Date: *Friday* Time: *8-9pm* _Please confirm if you’re joining us by 13 August, 6 PM_"
+      - gridcell
+  - listitem:
+    - 'button "+60 12-431 2071 Monday Password: N@530785187258am"':
+      - img
+      - gridcell "+60 12-431 2071 Monday"
+      - text: "Password: N@530785187258am"
+      - gridcell
+- text: Your personal messages are
+- button "end-to-end encrypted"
+- button "Get WhatsApp for Windows"
+- banner:
+  - button "Profile details":
+    - img
+  - button "The D Group (TDG)"
+  - button "Get the app for calling"
+  - button "Search…"
+  - button "Menu"
+- button "Syncing older messages. Click to see progress."
+- text: Today
+- 'row "You: 123 9:04 AM Delivered"':
+  - text: "123"
+  - button "9:04 AM Delivered":
+    - text: 9:04 AM
+    - img "msg-dblcheck"
+- 'row "+60 3-9771 1660: Open picture 9:04 AM Forward media"':
+  - button "Open picture":
+    - img
+    - img
+  - text: 9:04 AM
+  - button "Forward media"
+- 'row "+60 3-9771 1660: Please submit your receipt as a proof of purchase. The receipt must contain the following information: a. Store Name b. Receipt Date c. Product Name d. Product amount e. Total receipt amount f. Receipt number ✨ A clear and readable receipt image is very helpful for the validation process ✨ 9:04 AM"':
+  - text: "Please submit your receipt as a proof of purchase. The receipt must contain the following information: a. Store Name b. Receipt Date c. Product Name d. Product amount e. Total receipt amount f. Receipt number"
+  - img "✨"
+  - text: A clear and readable receipt image is very helpful for the validation process
+  - img "✨"
+  - text: 9:04 AM
+- 'row "You: Open picture 11:15 AM Delivered Forward media"':
+  - button "Open picture":
+    - img
+    - img
+    - img
+    - img
+  - button "11:15 AM Delivered":
+    - text: 11:15 AM
+    - img "msg-dblcheck"
+  - button "Forward media"
+- 'row "+60 3-9771 1660: Please wait while we upload your receipt! 😊 🚀 11:15 AM"':
+  - text: Please wait while we upload your receipt!
+  - img "😊"
+  - img "🚀"
+  - text: 11:15 AM
+- 'row "+60 3-9771 1660: Thank you for your submission! 🎉 We’ve received your details and will proceed with validation. ✅ You’ll receive your RM3 Touch ''n Go eWallet PIN within 5 working days once the verification is complete. Reminder: Please keep your receipt and do not discard it until the verification process is fully completed. 11:15 AM Submit New Receipt Chat with Agent"':
+  - text: Thank you for your submission!
+  - img "🎉"
+  - text: We’ve received your details and will proceed with validation.
+  - img "✅"
+  - text: You’ll receive your RM3 Touch 'n Go eWallet PIN within 5 working days once the verification is complete.
+  - strong: Reminder
+  - text: ": Please keep your receipt and do not discard it until the verification process is fully completed. 11:15 AM"
+  - button "Submit New Receipt"
+  - button "Chat with Agent"
+- 'row "You: 123 11:17 AM Delivered"':
+  - text: "123"
+  - button "11:17 AM Delivered":
+    - text: 11:17 AM
+    - img "msg-dblcheck"
+- 'row "+60 3-9771 1660: Please key in passcode to proceed 11:17 AM"': Please key in passcode to proceed 11:17 AM
+- 'row "You: kuhentest 11:18 AM Delivered"':
+  - text: kuhentest
+  - button "11:18 AM Delivered":
+    - text: 11:18 AM
+    - img "msg-dblcheck"
+- 'row "+60 3-9771 1660: The passcode is invalid. 11:18 AM Restart"':
+  - text: The passcode is invalid. 11:18 AM
+  - button "Restart"
+- 'row "You: kuhentest 11:18 AM Delivered"':
+  - text: kuhentest
+  - button "11:18 AM Delivered":
+    - text: 11:18 AM
+    - img "msg-dblcheck"
+- 'row "+60 3-9771 1660: Open picture 11:18 AM Forward media"':
+  - button "Open picture":
+    - img
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 11:18 AM
+  - button "Forward media"
+- 'row "+60 3-9771 1660: 💙 Welcome to Fluimucil Buy and Redeem Campaign!! Thank you for your purchase! Follow these easy steps to redeem your RM3 TnG reward on each box you buy: ✅ Step 1: Buy 1 unit of Fluimucil at any participating outlet. ✅ Step 2: Send us your Name. ✅ Step 3: Snap and upload a clear photo of your receipt (max 10 redemptions per user). ✅ Step 4: We’ll verify and send your RM3 TnG PIN within 5 working days. 👉 Tap “Proceed” below to begin. By continuing, you agree to our [Terms & Conditions]. 11:18 AM Proceed"':
+  - img "💙"
+  - text: "Welcome to Fluimucil Buy and Redeem Campaign!! Thank you for your purchase! Follow these easy steps to redeem your RM3 TnG reward on each box you buy:"
+  - img "✅"
+  - text: "Step 1: Buy 1 unit of Fluimucil at any participating outlet."
+  - img "✅"
+  - text: "Step 2: Send us your Name."
+  - img "✅"
+  - text: "Step 3: Snap and upload a clear photo of your receipt (max 10 redemptions per user)."
+  - img "✅"
+  - text: "Step 4: We’ll verify and send your RM3 TnG PIN within 5 working days."
+  - img "👉"
+  - text: Tap “Proceed” below to begin. By continuing, you agree to our [Terms & Conditions]. 11:18 AM
+  - button "Proceed" [disabled]
+- 'row "You: Quoted message Proceed 11:18 AM Delivered"':
+  - button "Quoted message":
+    - text: The D Group (TDG)
+    - 'button "💙 Welcome to Fluimucil Buy and Redeem Campaign!! Thank you for your purchase! Follow these easy steps to redeem your RM3 TnG reward on each box you buy: ✅ Step 1: Buy 1 unit of Fluimucil at any participating outlet. ✅ Step 2: Send us your Name. ✅ Step 3: Snap and upload a clear photo of your receipt (max 10 redemptions per user). ✅ Step 4: We’ll verify and send your RM3 TnG PIN within 5 working days. 👉 Tap “Proceed” below to begin. By continuing, you agree to our [Terms & Conditions]."':
+      - img "💙"
+      - text: "Welcome to Fluimucil Buy and Redeem Campaign!! Thank you for your purchase! Follow these easy steps to redeem your RM3 TnG reward on each box you buy:"
+      - img "✅"
+      - text: "Step 1: Buy 1 unit of Fluimucil at any participating outlet."
+      - img "✅"
+      - text: "Step 2: Send us your Name."
+      - img "✅"
+      - text: "Step 3: Snap and upload a clear photo of your receipt (max 10 redemptions per user)."
+      - img "✅"
+      - text: "Step 4: We’ll verify and send your RM3 TnG PIN within 5 working days."
+      - img "👉"
+      - text: Tap “Proceed” below to begin. By continuing, you agree to our [Terms & Conditions].
+  - text: Proceed
+  - button "11:18 AM Delivered":
+    - text: 11:18 AM
+    - img "msg-dblcheck"
+- 'row "+60 3-9771 1660: Great! Let''s move to the next step. 😊 Please reply with your Name. 11:18 AM"':
+  - text: Great! Let's move to the next step.
+  - img "😊"
+  - text: Please reply with your Name. 11:18 AM
+- row "This business is now using a secure service from Meta to manage this chat. Click to learn more.":
+  - button "This business is now using a secure service from Meta to manage this chat. Click to learn more."
+- 'row "You: 123 11:19 AM Delivered"':
+  - text: "123"
+  - button "11:19 AM Delivered":
+    - text: 11:19 AM
+    - img "msg-dblcheck"
+- 'row "+60 3-9771 1660: Open picture 11:19 AM Forward media"':
+  - button "Open picture":
+    - img
+    - img
+    - img
+  - text: 11:19 AM
+  - button "Forward media"
+- 'row "+60 3-9771 1660: Please submit your receipt as a proof of purchase. The receipt must contain the following information: a. Store Name b. Receipt Date c. Product Name d. Product amount e. Total receipt amount f. Receipt number ✨ A clear and readable receipt image is very helpful for the validation process ✨ 11:19 AM"':
+  - text: "Please submit your receipt as a proof of purchase. The receipt must contain the following information: a. Store Name b. Receipt Date c. Product Name d. Product amount e. Total receipt amount f. Receipt number"
+  - img "✨"
+  - text: A clear and readable receipt image is very helpful for the validation process
+  - img "✨"
+  - text: 11:19 AM
+- contentinfo:
+  - button "Attach"
+  - button "Expressions picker"
+  - textbox "Type a message":
+    - paragraph
+  - button "Voice message"
+```
